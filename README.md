@@ -34,7 +34,6 @@
 
 ### 📂 精选项目
 
-* **[communitySay](https://github.com/bilipeng/communitySay)**：基于 Spring Boot + Vue 3 的社区主题软件，我的核心练手项目。
 * **[CloudDriveLite](https://github.com/bilipeng/CloudDriveLite)**：Java 开发的轻量级云盘服务。
 * **[hwMall](https://github.com/bilipeng/hwMall)**：华为商城复刻版，JavaEE 结课课程设计。
 
@@ -43,7 +42,7 @@
 ---
 
 ### 📫 如何找到我
-- **Blog**: (如果你有博客可以填在这里)
+- **Blog**: (暂无)
 - **Email**: (penghaiyi17@gmail.com)
 - **Fun Fact**: 我正在把所有的开发环境都搬进 WSL2，并用 NAS 管理我的 24 小时监控。
 
